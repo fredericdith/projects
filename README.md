@@ -10,7 +10,7 @@ This folder contains all my self-assigned projects.
 - [View on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
 
 
-# Project 2: A passenger logbook ✈️
+# Project 2: A passenger logbook
 ![project 2](https://github.com/fredericdith/projects/assets/1576325/e20b0fd7-47f4-4f92-a677-5f454e5004d9)
 
 - [add description]
