@@ -12,7 +12,7 @@ This folder contains all my self-assigned projects.
 # Project 2: A passenger logbook
 ![project 2](https://github.com/fredericdith/projects/assets/1576325/c38ec545-4125-4187-a4f2-1e3c0e8ce40c)
 - _Started from a spreadsheet now we here_
-- `python`, `pandas`,`plotly`,`api`,`dash`
+- `python`, `pandas`,`plotly-express`,`dash`
 - Date of creation: 2023-11-06
 - [View on GitHub]
 - [View on nbviewer]
