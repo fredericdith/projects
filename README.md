@@ -1,6 +1,6 @@
 This folder contains all my self-assigned projects.
 
-# Project 1: Compare the cycling networks of two European cities: Berlin 🇩🇪 and Paris 🇫🇷
+# Project 1: Compare the cycling networks of Berlin 🇩🇪 and Paris 🇫🇷
 ![project 1](https://github.com/fredericdith/projects/assets/1576325/3a4464e7-3825-4404-999c-945d25726ac8)
 
 - This data exploration self-assignment was born out of a personal interest for the topic. I've lived in both cities and developed very subjective feelings regarding the quality of their respective cycling networks. I wanted to explore this topic through data, in order to gain a different perspective on it.
