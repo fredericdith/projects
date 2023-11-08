@@ -5,8 +5,8 @@ This folder contains all my self-assigned projects.
 - This data exploration self-assignment was born out of a personal interest for the topic. I've lived in both cities and developed very subjective feelings regarding the quality of their respective cycling networks. I wanted to explore this topic through data, in order to gain a different perspective on it.
 - `python`, `pandas`, `matplotlib`
 - Date of creation: 2023-10-31
-- [View on GitHub](https://github.com/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
-- [View on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
+- [View the notebook on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
+- [View the notebook on GitHub](https://github.com/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
 
 
 # Project 2: A passenger logbook
@@ -14,5 +14,6 @@ This folder contains all my self-assigned projects.
 - _Started from a spreadsheet now we here_
 - `python`, `pandas`,`plotly-express`,`dash`
 - Date of creation: 2023-11-06
-- [View on GitHub]
-- [View on nbviewer]
+- [View the dashboard](https://passenger-logbook.s10a.dev/)
+- [View the notebook on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/main/passenger_logbook/passenger_logbook.ipynb)
+- [View the notebook on GitHub](https://github.com/fredericdith/projects/blob/main/passenger_logbook/passenger_logbook.ipynb)
