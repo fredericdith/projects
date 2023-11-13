@@ -22,5 +22,5 @@
 - Any game starts with 22 players on the field, but substitute players can also create differences.
 - `python`, `pandas`,`plotly-express`,`sklearn`,`data-analytics`,`statistics`,`football`
 - Date of creation: 2023-11-11
-- [View the notebook on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/be2b66c6846062f047bfeea6482b110a5ce188ab/football_bench_index/bench2.ipynb)
+- [View the notebook on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/96c78b72dbf629e1c42f71b39063b06199e0f6c2/football_bench_index/bench3.ipynb)
 - [View code on Github](https://github.com/fredericdith/projects/blob/main/football_bench_index/bench.ipynb)
