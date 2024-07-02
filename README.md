@@ -5,7 +5,8 @@
 - Date of creation: 2023-10-31
 - [View the notebook on nbviewer](https://nbviewer.org/github/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
 - [View code on GitHub](https://github.com/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin.ipynb)
-
+- [Update 2024-07-02: new dataset and geographical subdivision for berlin, plotly express instead of matplotlib](https://nbviewer.org/github/fredericdith/projects/blob/main/cycling_paris_berlin/cycling_paris_berlin_updated.ipynb)
+  
 
 ## Project 2: A passenger logbook
 ![project 2](https://github.com/fredericdith/projects/assets/1576325/c38ec545-4125-4187-a4f2-1e3c0e8ce40c)
